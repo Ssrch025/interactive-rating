@@ -2,7 +2,7 @@
   "name": "interactive_rating_component",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ssrch025.github.io",
+  "homepage": "https://ssrch025.github.io/interactive-rating/",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
